@@ -1,4 +1,7 @@
-%This is an algorithm that calculates the average of 3 scores, and it prints it with the grade%
+# This algorithm calculates the average of three input scores, 
+# validates them within the range of 0 to 20, and assigns a grade 
+# based on the calculated average. It then displays both the 
+# average score and the corresponding grade.
 
 Algorithm Scores_Grades
 Variables
