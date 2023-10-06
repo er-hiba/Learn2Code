@@ -16,12 +16,16 @@ That's it! You're now ready to explore and work with the projects in this reposi
 
 ## Projects Included
 ### AverageScore_Grade
-*Description*: This program allows you to input three test scores (ranging from 0 to 20) for a student. It calculates the average score and 
-assigns a grade based on the average:
-  - "Excellent" for scores above 16
-  - "Good" for scores between 14 and 16
-  - "Fair" for scores between 12 and 14
-  - "Poor" for scores between 10 and 12
+*Description*: This program calculates the average of three input scores, validates them within the range of 0 
+to 20, and assigns a grade based on the calculated average. It then displays both the average score and the corresponding grade.
+  - "Excellent" if the average score is 16 or above
+  - "Good" if the average score is between 14 and 16 (including 14)
+  - "Fair" if the average score is between 12 and 14 (including 12)
+  - "Poor" if the average score is between 10 and 12 (including 10)
   - "Very poor" for scores below 10
 
-*Files*: The files are in the folder AverageScore_Grade.
+*Files*: The files for this project are in the folder AverageScore_Grade. 
+- AverageScore_Grade.py is the file that contains the code
+- AverageScore_Grade.txt contains the algorithm in English
+- Notes_Moyennes.txt contains the algorithm in French
+
