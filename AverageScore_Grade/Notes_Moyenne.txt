@@ -1,4 +1,8 @@
-%This is the same algorithm in the file AverageScore_Grade.txt translated to French%
+# This is the same algorithm in the file AverageScore_Grade.txt translated to French.
+
+# Cet algorithme calcule la moyenne de trois notes saisies par l'utilisateur, 
+# les valide dans la plage de 0 à 20, attribue une mention en fonction de la moyenne 
+# calculée, puis affiche à la fois la moyenne et la mention correspondante.
 
 Algorithme Notes_Mention
 Variables
