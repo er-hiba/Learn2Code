@@ -1,0 +1,45 @@
+Algorithm Scores_Grades
+Variables
+	A, B, C, Average : float
+	Grade: string
+Start
+	Write("Enter your 3 scores: ")
+	Read(A, B, C)
+
+	while A < 0 or A > 20 do
+		Write("Reenter your first score: ")
+		Read(A)
+	end while
+	
+  while B < 0 or B > 20 do
+		Write("Reenter your second score: ")
+		Read(B)
+	end while
+	
+  while C < 0 or C > 20 do
+		Write("Reenter your third score: ")
+		Read(C)
+	end while
+
+	Average ← (A + B + C)/3
+
+	if Average >= 16 then
+		Grade ← Excellent
+	else
+		if Average >= 14 then
+			Grade ← Good
+		else
+			if Average >= 12 then
+				Grade ← Fair
+			else
+				if Average >= 10 then
+					Grade ← Poor
+				else
+					Grade ← Very poor
+				end if
+			end if
+		end if
+	end if
+	
+	Write("Average score: ",Average ,"Grade: ", Grade)
+End
