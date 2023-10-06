@@ -22,7 +22,7 @@ to 20, and assigns a grade based on the calculated average. It then displays bot
   - "Good" if the average score is between 14 and 16 (including 14)
   - "Fair" if the average score is between 12 and 14 (including 12)
   - "Poor" if the average score is between 10 and 12 (including 10)
-  - "Very poor" for scores below 10
+  - "Very poor" if the average score is below 10
 
 *Files*: The files for this project are in the folder AverageScore_Grade. 
 - AverageScore_Grade.py is the file that contains the code
