@@ -1,4 +1,5 @@
 %This is an algorithm that calculates the average of 3 scores, and it prints it with the grade%
+
 Algorithm Scores_Grades
 Variables
 	A, B, C, Average : float
