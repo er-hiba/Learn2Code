@@ -29,18 +29,18 @@ Start
 	Average ← (A + B + C)/3
 
 	if Average >= 16 then
-		Grade ← Excellent
+		Grade ← "Excellent"
 	else
 		if Average >= 14 then
-			Grade ← Good
+			Grade ← "Good"
 		else
 			if Average >= 12 then
-				Grade ← Fair
+				Grade ← "Fair"
 			else
 				if Average >= 10 then
-					Grade ← Poor
+					Grade ← "Poor"
 				else
-					Grade ← Very poor
+					Grade ← "Very poor"
 				end if
 			end if
 		end if
