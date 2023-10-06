@@ -16,12 +16,12 @@ Start
 		Read(A)
 	end while
 	
-  while B < 0 or B > 20 do
+	while B < 0 or B > 20 do
 		Write("Reenter your second score: ")
 		Read(B)
 	end while
 	
-  while C < 0 or C > 20 do
+	while C < 0 or C > 20 do
 		Write("Reenter your third score: ")
 		Read(C)
 	end while
