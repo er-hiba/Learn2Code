@@ -15,7 +15,7 @@ Repeat steps 2 and 3 for each project you're interested in.
 That's it! You're now ready to explore and work with the projects in this repository.
 
 ## Projects Included
-### Project 1: Average Test Scores Calculator 
+### AverageScore_Grade
 *Description*: This program allows you to input three test scores (ranging from 0 to 20) for a student. It calculates the average score and 
 assigns a grade based on the average:
   - "Excellent" for scores above 16
@@ -24,4 +24,4 @@ assigns a grade based on the average:
   - "Poor" for scores between 10 and 12
   - "Very poor" for scores below 10
 
-*Files*: I am currently working on creating the necessary files for this project.
+*Files*: The files are in the folder AverageScore_Grade.
