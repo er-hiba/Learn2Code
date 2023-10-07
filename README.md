@@ -29,3 +29,12 @@ to 20, and assigns a grade based on the calculated average. It then displays bot
 - AverageScore_Grade.txt contains the algorithm in English
 - Notes_Moyennes.txt contains the algorithm in French
 
+### Revenue_Calculator
+*Description*: This program calculates revenue based on the total number of units sold and the price per unit. It also allows the user to input a currency symbol and displays the revenue with the symbol.
+
+*Files*: The file that contains the code for this project is revenue_calculator.py 
+
+You can find it in the directory Revenue_Calculator 
+
+## Contact
+If you have any questions or feedback about these projects, feel free to [contact me](mailto:hibah.erraoui@gmail.com).
