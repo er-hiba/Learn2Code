@@ -30,13 +30,13 @@ to 20, and assigns a grade based on the calculated average. It then displays bot
 - notes_moyennes.txt contains the algorithm in French
 
 ### Revenue_Calculator
-*Description*: This program calculates revenue based on the total number of units sold and the price per unit. It also allows the user to input a currency symbol and displays the revenue with the symbol.
+*Description*: This program calculates revenue based on the total number of units sold and the price per unit. It also allows the user to input a currency symbol and displays the symbol and the revenue with two decimal places.
 
 *Files*: The file that contains the code for this project is revenue_calculator.py  
 You can find it in the directory Revenue_Calculator 
 
 ### Circle_Area
-*Description*: This program effectively calculates and displays the area of a circle with two decimals
+*Description*: This program effectively calculates and displays the area of a circle with two decimal places
 while handling cases where the user enters a non-positive radius.
 
 *Files*: The file that contains the code for this project is circle_area.py  
