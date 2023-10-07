@@ -1,3 +1,7 @@
+#This program calculates the average of three input scores, validates them within the 
+#range of 0 to 20, and assigns a grade based on the calculated average. 
+#It then displays both the average score and the corresponding grade.
+
 # Input: Ask the user to enter three scores and convert them to floats.
 A = float(input("Enter your 1st score: "))
 B = float(input("Enter your 2nd score: "))
@@ -27,8 +31,8 @@ elif Average >= 12 :
     Grade = "Fair"
 elif Average >= 10 :
     Grade = "Poor"
-else : 
-    Grade = "Very poor"
+else :
+    Grade = "Very poor" # Average score < 10 is "Very poor"
 
 # Output: Display the average score and assigned grade.
 print("Average score: ",Average ,"Grade: ", Grade)
