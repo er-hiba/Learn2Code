@@ -25,16 +25,22 @@ to 20, and assigns a grade based on the calculated average. It then displays bot
   - "Very poor" if the average score is below 10
 
 *Files*: The files for this project are in the folder AverageScore_Grade. 
-- AverageScore_Grade.py is the file that contains the code
-- AverageScore_Grade.txt contains the algorithm in English
-- Notes_Moyennes.txt contains the algorithm in French
+- averagescore_grade.py is the file that contains the code
+- averagescore_grade.txt contains the algorithm in English
+- notes_moyennes.txt contains the algorithm in French
 
 ### Revenue_Calculator
 *Description*: This program calculates revenue based on the total number of units sold and the price per unit. It also allows the user to input a currency symbol and displays the revenue with the symbol.
 
-*Files*: The file that contains the code for this project is revenue_calculator.py 
-
+*Files*: The file that contains the code for this project is revenue_calculator.py  
 You can find it in the directory Revenue_Calculator 
+
+### Circle_Area
+*Description*: This program effectively calculates and displays the area of a circle with two decimals
+while handling cases where the user enters a non-positive radius.
+
+*Files*: The file that contains the code for this project is circle_area.py  
+You can find it in the directory Circle_Area
 
 ## Contact
 If you have any questions or feedback about these projects, feel free to [contact me](mailto:hibah.erraoui@gmail.com).
