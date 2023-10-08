@@ -70,5 +70,14 @@ real quotient, and modulo of two numbers.
 ``Files`` The file that contains the code for this project is math_operations.py  
 You can find it in the directory Math_Operations 
 
+### Number_Factorial
+``Description`` The factorial of a number N is the product of all positive integers from 1 to N.  
+This  program calculates factorials for user-entered numbers, providing clear messages for various input scenarios,
+including zero, negative, and very large numbers (above 170). It's beginner-friendly and does not utilize functions.  
+However, please note that it does not handle non-integer inputs.  
+
+``Files`` The file that contains the code for this project is number_factorial.py  
+You can find it in the directory Number_Factorial  
+
 ## Contact
 If you have any questions or feedback about these projects, feel free to [contact me](mailto:hibah.erraoui@gmail.com).
