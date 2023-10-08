@@ -42,5 +42,15 @@ while handling cases where the user enters a non-positive radius.
 *Files*: The file that contains the code for this project is circle_area.py  
 You can find it in the directory Circle_Area
 
+### Kitty_Art
+*Description*: This Python program generates an ASCII art representation of a kitty,
+featuring indentation for a neater and more structured appearance.   
+
+<img src="https://github.com/er-hiba/Learn2Code/blob/78943225f6b938ec752dc676c67bf630cee33a0b/Kitty_Art/Kitty.png">  
+
+*Files*: The files for this project are in the directory Kitty_Art  
+- kitty_art.py contains the code
+- Kitty.png is the sctreenshot  
+
 ## Contact
 If you have any questions or feedback about these projects, feel free to [contact me](mailto:hibah.erraoui@gmail.com).
