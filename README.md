@@ -50,7 +50,7 @@ featuring indentation for a neater and more structured appearance.
 
 *Files*: The files for this project are in the directory Kitty_Art  
 - kitty_art.py contains the code
-- Kitty.png is the sctreenshot  
+- Kitty.png is the screenshot  
 
 ## Contact
 If you have any questions or feedback about these projects, feel free to [contact me](mailto:hibah.erraoui@gmail.com).
