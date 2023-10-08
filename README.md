@@ -17,7 +17,8 @@ That's it! You're now ready to explore and work with the projects in this reposi
 ## Projects Included
 ### AverageScore_Grade
 *Description*: This program calculates the average of three input scores, validates them within the range of 0 
-to 20, and assigns a grade based on the calculated average. It then displays both the average score and the corresponding grade.
+to 20, and assigns a grade based on the calculated average. After calculation, it displays both the average score 
+and its corresponding grade.  
   - "Excellent" if the average score is 16 or above
   - "Good" if the average score is between 14 and 16 (including 14)
   - "Fair" if the average score is between 12 and 14 (including 12)
@@ -30,7 +31,8 @@ to 20, and assigns a grade based on the calculated average. It then displays bot
 - notes_moyennes.txt contains the algorithm in French
 
 ### Revenue_Calculator
-*Description*: This program calculates revenue based on the total number of units sold and the price per unit. It also allows the user to input a currency symbol and displays the symbol and the revenue with two decimal places.
+*Description*: This program calculates revenue based on the total number of units sold and the price per unit.
+Additionally, it lets users input a currency symbol and displays both the symbol and the revenue, rounded to two decimal places.
 
 *Files*: The file that contains the code for this project is revenue_calculator.py  
 You can find it in the directory Revenue_Calculator 
@@ -51,6 +53,14 @@ featuring indentation for a neater and more structured appearance.
 *Files*: The files for this project are in the directory Kitty_Art  
 - kitty_art.py contains the code
 - Kitty.png is the screenshot  
+
+### Basic_Calculator
+*Description*: This program is a simple calculator that allows a user to perform basic arithmetic operations 
+on two numbers. It interacts with the user to input two numbers (A and B) and the desired mathematical operation (Op),
+and then it calculates and displays the result.  
+
+*Files*: The file that contains the code for this project is basic_calculator.py  
+You can find it in the directory Basic_Calculator
 
 ## Contact
 If you have any questions or feedback about these projects, feel free to [contact me](mailto:hibah.erraoui@gmail.com).
