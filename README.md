@@ -6,8 +6,8 @@ Whether you're new to programming or looking for interesting beginner-level proj
 To get started with any project in this repository, please follow these steps:
 1. Clone this repository to your local machine using the following command:  
 git clone https://github.com/er-hiba/learn2code.git
-2. Navigate to a project's directory using the command:
-  cd learn2code/project-name
+2. Navigate to a project's directory using the command:  
+cd learn2code/project-name
 3. Once you're in a project directory, follow the project-specific instructions provided in the project's README or code files.
 
 Repeat steps 2 and 3 for each project you're interested in.
@@ -78,6 +78,16 @@ However, please note that it does not handle non-integer inputs.
 
 ``Files`` The file that contains the code for this project is number_factorial.py  
 You can find it in the directory Number_Factorial  
+
+### Text_Composer
+``Description`` This program allows users to compose text by entering single characters interactively. Characters
+are collected one by one, and to conclude input, users can enter a period ('.'), which will not be displayed in the
+final output.  
+This program is designed for simplicity and basic text composition. It may not be suited for users who need to enter 
+larger amounts of text quickly. And it doesn't include advanced error handling features.  
+
+``Files`` The file that contains the code for this project is text_composer.py  
+You can find it in the directory Text_Composer  
 
 ## Contact
 If you have any questions or feedback about these projects, feel free to [contact me](mailto:hibah.erraoui@gmail.com).
