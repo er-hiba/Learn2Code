@@ -89,5 +89,11 @@ larger amounts of text quickly. And it doesn't include advanced error handling f
 ``Files`` The file that contains the code for this project is text_composer.py  
 You can find it in the directory Text_Composer  
 
+### Prime_Number
+``Description`` This program determines whether a user-entered integer is a prime number or a composite number. Prime numbers are defined as positive integers greater than 1 that have exactly two distinct positive divisors: 1 and themselves. This program calculates the number of divisors for the entered integer and uses this count to make the determination.  If the user enters a non-integer, it will provide an error message.  
+
+``Files`` The file that contains the code for this project is prime_number.py  
+You can find it in the directory Prime_Number
+
 ## Contact
 If you have any questions or feedback about these projects, feel free to [contact me](mailto:hibah.erraoui@gmail.com).
