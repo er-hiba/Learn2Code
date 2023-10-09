@@ -93,7 +93,13 @@ You can find it in the directory Text_Composer
 ``Description`` This program determines whether a user-entered integer is a prime number or a composite number. Prime numbers are defined as positive integers greater than 1 that have exactly two distinct positive divisors: 1 and themselves. This program calculates the number of divisors for the entered integer and uses this count to make the determination.  If the user enters a non-integer, it will provide an error message.  
 
 ``Files`` The file that contains the code for this project is prime_number.py  
-You can find it in the directory Prime_Number
+You can find it in the directory Prime_Number  
+
+### Multiplication_Table
+``Description`` This program generates a multiplication table from 0 to 10 for user-input integers. Please note that it does not include error handling for invalid input.  
+
+``Files`` The file that contains the code for this project is multiplication_table.py  
+You can find it in the directory Multiplication_Table  
 
 ## Contact
 If you have any questions or feedback about these projects, feel free to [contact me](mailto:hibah.erraoui@gmail.com).
