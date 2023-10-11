@@ -156,13 +156,15 @@ You can find it in the directory Month_Days
 ### Next_Ten
 ``Description`` This program takes a user input, which is a number, and then prints the next ten numbers starting from that input using a for loop. It also includes additional examples of alternative loop structures, such as while and do-while loops, as commented sections.
 
-``Files``  The file that contains the code for this project is next_ten.py   
+``Files`` The file that contains the code for this project is next_ten.py   
 You can find it in the directory Next_Ten
 
 ### Limited_Harmonic_Sum
-``Description`` will be added soon
+``Description`` This program calculates and displays the sum of the harmonic series up to the "n-th" term.  
+The harmonic series is defined as 1/1 + 1/2 + 1/3 + ... + 1/n.
 
-``Files`` will be added soon
+``Files`` The file that contains the code for this project is limited_harmonic_sum.py  
+You can find it in the directory Limited_Harmonic
 
 ### Power_Ten_Sum
 ``Description`` will be added soon
