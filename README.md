@@ -179,9 +179,10 @@ You can find it in the directory Power_Ten_Sum
 You can find it in the directory Odd_Squares_Sum
 
 ### Divisors_List
-``Description`` will be added soon
+``Description`` This program finds and displays the divisors of a positive non-null integer.
 
-``Files`` will be added soon
+``Files`` The file that contains the code for this project is divisors_list.py 
+You can find it in the directory Divisors_List
 
 ### Amal_Account
 ``Description`` will be added soon
