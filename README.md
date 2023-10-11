@@ -108,9 +108,10 @@ You can find it in the directory Multiplication_Table
 You can find it in the directory Compare_Signs
 
 ### Swap_By_Sign
-``Description`` will be added soon
+``Description`` This program swaps the values of two numbers entered by the user if they have the same sign; otherwise, it places the sum of the two in the first number and their product in the second.
 
-``Files`` will be added soon  
+``Files`` The file that contains the code for this project is swap_by_sign.py
+You can find it in the directory Swap_By_Sign 
 
 ### Copy_Bill
 ``Description`` will be added soon
