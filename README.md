@@ -154,9 +154,10 @@ You can find it in the directory VAT_Price
 You can find it in the directory Month_Days
 
 ### Next_Ten
-``Description`` will be added soon
+``Description`` This program takes a user input, which is a number, and then prints the next ten numbers starting from that input using a for loop. It also includes additional examples of alternative loop structures, such as while and do-while loops, as commented sections.
 
-``Files`` will be added soon
+``Files``  The file that contains the code for this project is next_ten.py   
+You can find it in the directory Next_Ten
 
 ### Limited_Harmonic_Sum
 ``Description`` will be added soon
