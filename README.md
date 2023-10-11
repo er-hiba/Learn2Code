@@ -181,13 +181,14 @@ You can find it in the directory Odd_Squares_Sum
 ### Divisors_List
 ``Description`` This program finds and displays the divisors of a positive non-null integer.
 
-``Files`` The file that contains the code for this project is divisors_list.py 
+``Files`` The file that contains the code for this project is divisors_list.py   
 You can find it in the directory Divisors_List
 
 ### Amal_Account
-``Description`` will be added soon
+``Description`` This program calculates the total amount Amal will have in her savings account on her nth birthday, with her grandfather depositing 500 MAD on each birthday, and adding three times her age to the account.
 
-``Files`` will be added soon
+``Files`` The file that contains the code for this project is amal_account.py  
+You can find it in the directory Amal_Account
 
 ### Population_Comparison
 ``Description`` will be added soon
