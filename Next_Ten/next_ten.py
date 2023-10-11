@@ -5,3 +5,17 @@ N = int(input("Enter an integer: "))
 for i in range(N+1, N+11, 1) :
     # Print the current value of 'i', which represents the next number in the sequence
     print(i)
+
+# While loop
+#i = N+1
+#while i <= N+10:
+#    print(i)
+#    i += 1
+
+# Do While loop
+#i = N+1
+#while True :
+#    print(i)
+#    i += 1
+#    if i == N+11 :
+#        break
