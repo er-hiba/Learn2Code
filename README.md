@@ -130,9 +130,10 @@ If the entered age doesn't fall into any of these categories, it informs the use
   You can find it in the directory Age_Category
 
 ### Quadratic_Equation
-``Description`` will be added soon
+``Description`` This program prompts the user to input the coefficients (a, b, and c) of a quadratic equation. It calculates the discriminant (d) and then determines and displays the solutions of the equation, rounded to three decimal places.
 
-``Files`` will be added soon  
+``Files`` The file that contains the code for this project is quadratic_equation.py  
+You can find it in the directory Quadratic_Equation
 
 ### Tax_Eligible
 ``Description`` will be added soon
