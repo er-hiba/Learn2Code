@@ -102,9 +102,10 @@ You can find it in the directory Prime_Number
 You can find it in the directory Multiplication_Table  
 
 ### Compare_Signs
-``Description`` will be added soon
+``Description`` This program determines whether two numbers entered by the user have the same sign, opposite signs, or if one of them is zero.
 
-``Files`` will be added soon
+``Files`` The file that contains the code for this project is compare_signs.py  
+You can find it in the directory Compare_Signs
 
 ### Swap_By_Sign
 ``Description`` will be added soon
