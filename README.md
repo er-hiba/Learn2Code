@@ -167,9 +167,10 @@ The harmonic series is defined as 1/1 + 1/2 + 1/3 + ... + 1/n.
 You can find it in the directory Limited_Harmonic
 
 ### Power_Ten_Sum
-``Description`` will be added soon
+``Description`` This program calculates and displays the sum of powers of 10 from 0 to n, where n is entered by the user.
 
-``Files`` will be added soon
+``Files`` The file that contains the code for this project is power_ten_sum.py  
+You can find it in the directory Power_Ten_Sum
 
 ### Odd_Squares_Sum
 ``Description`` will be added soon
