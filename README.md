@@ -142,9 +142,10 @@ You can find it in the directory Quadratic_Equation
 You can find it in the directory Tax_Eligible
 
 ### VAT_Price
-``Description`` will be added soon
+``Description`` This program prompts the user to enter the initial price of a product (excluding tax) and its category, which can be "A" (7% VAT), "B" (20% VAT), or "C" (25% VAT). And it applies the appropriate VAT rate to calculate the total price with VAT and displays the result.
 
-``Files`` will be added soon
+``Files`` The file that contains the code for this project is vat_price.py  
+You can find it in the directory VAT_Price
 
 ### Month_Days
 ``Description`` will be added soon
