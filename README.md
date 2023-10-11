@@ -101,5 +101,90 @@ You can find it in the directory Prime_Number
 ``Files`` The file that contains the code for this project is multiplication_table.py  
 You can find it in the directory Multiplication_Table  
 
+### Compare_Signs
+``Description`` will be added soon
+
+``Files`` will be added soon
+
+### Swap_By_Sign
+``Description`` will be added soon
+
+``Files`` will be added soon  
+
+### Copy_Bill
+``Description`` will be added soon
+
+``Files`` will be added soon  
+
+### Age_Category
+``Description`` will be added soon
+
+``Files`` will be added soon  
+
+### Quadratic_Equation
+``Description`` will be added soon
+
+``Files`` will be added soon  
+
+### Tax_Eligible
+``Description`` will be added soon
+
+``Files`` will be added soon
+
+### VAT_Price
+``Description`` will be added soon
+
+``Files`` will be added soon
+
+### Month_Days
+``Description`` will be added soon
+
+``Files`` will be added soon
+
+### Next_Ten
+``Description`` will be added soon
+
+``Files`` will be added soon
+
+### Limited_Harmonic_Sum
+``Description`` will be added soon
+
+``Files`` will be added soon
+
+### Power_Ten_Sum
+``Description`` will be added soon
+
+``Files`` will be added soon
+
+### Odd_Squares_Sum
+``Description`` will be added soon
+
+``Files`` will be added soon
+
+### Divisors_List
+``Description`` will be added soon
+
+``Files`` will be added soon
+
+### Amal_Account
+``Description`` will be added soon
+
+``Files`` will be added soon
+
+### Population_Comparison
+``Description`` will be added soon
+
+``Files`` will be added soon
+
+### Formula_Sequence
+``Description`` will be added soon
+
+``Files`` will be added soon
+
+### Fibonacci_Sequence
+``Description`` will be added soon
+
+``Files`` will be added soon
+
 ## Contact
 If you have any questions or feedback about these projects, feel free to [contact me](mailto:hibah.erraoui@gmail.com).
