@@ -191,9 +191,10 @@ You can find it in the directory Divisors_List
 You can find it in the directory Amal_Account
 
 ### Population_Comparison
-``Description`` will be added soon
+``Description`` This program calculates and displays the number of years it takes for Agadir's population to surpass Marrakech's. Given the initial populations of Marrakech and Agadir, along with their respective growth rates. The population of the city of Marrakech is 1,000,000 inhabitants, and it increases by 50,000 inhabitants per year. The population of the city of Agadir is 500,000 inhabitants, and it increases by 8% per year.
 
-``Files`` will be added soon
+``Files``  The file that contains the code for this project is population_comparison.py
+You can find it in the directory Population_Comparison
 
 ### Formula_Sequence
 ``Description`` will be added soon
