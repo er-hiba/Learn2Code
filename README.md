@@ -148,9 +148,10 @@ You can find it in the directory Tax_Eligible
 You can find it in the directory VAT_Price
 
 ### Month_Days
-``Description`` will be added soon
+``Description`` This program prompts the user to input a month number and then determines the number of days in that month, displaying the result.
 
-``Files`` will be added soon
+``Files`` The file that contains the code for this project is month_days.py  
+You can find it in the directory Month_Days
 
 ### Next_Ten
 ``Description`` will be added soon
