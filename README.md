@@ -138,7 +138,7 @@ You can find it in the directory Quadratic_Equation
 ### Tax_Eligible
 ``Description`` This program takes a resident's age and gender (M for male, F for female), determines and displays their tax eligibility by applying these rules: Men over the age of 20 and women between 18 and 35 (inclusive) are considered taxable residents, while others are not
 
-``Files`` The file that contains the code for this project is tax_eligible.py
+``Files`` The file that contains the code for this project is tax_eligible.py  
 You can find it in the directory Tax_Eligible
 
 ### VAT_Price
