@@ -173,9 +173,10 @@ You can find it in the directory Limited_Harmonic
 You can find it in the directory Power_Ten_Sum
 
 ### Odd_Squares_Sum
-``Description`` will be added soon
+``Description`` This program calculates the sum of the squares of the first n odd integers.
 
-``Files`` will be added soon
+``Files`` The file that contains the code for this project is odd_squares_sum.py  
+You can find it in the directory Odd_Squares_Sum
 
 ### Divisors_List
 ``Description`` will be added soon
