@@ -203,9 +203,10 @@ You can find it in the directory Population_Comparison
 You can find it in the directory Formula_Sequence
 
 ### Fibonacci_Sequence
-``Description`` will be added soon
+``Description`` This program prompts the user to enter an integer greater than or equal to 2, and it generates and displays the Fibonacci sequence, stopping just before reaching the specified integer.
 
-``Files`` will be added soon
+``Files`` The file that contains the code for this project is fibonacci_sequence.py   
+You can find it in the directory Fibonacci_Sequence
 
 ## Contact
 If you have any questions or feedback about these projects, feel free to [contact me](mailto:hibah.erraoui@gmail.com).
