@@ -4,18 +4,6 @@ Whether you're new to programming or looking for interesting beginner-level proj
 
 ## Projects Included
 
-### Compare_Signs
-``Description`` This program determines whether two numbers entered by the user have the same sign, opposite signs, or if one of them is zero.
-
-``Files`` The file that contains the code for this project is compare_signs.py  
-You can find it in the directory Compare_Signs
-
-### Swap_By_Sign
-``Description`` This program swaps the values of two numbers entered by the user if they have the same sign; otherwise, it places the sum of the two in the first number and their product in the second.
-
-``Files`` The file that contains the code for this project is swap_by_sign.py
-You can find it in the directory Swap_By_Sign 
-
 ### Copy_Bill
 ``Description`` This program calculates the cost of photocopies, and displays the total bill in Moroccan Dirhams (MAD). It calculates the cost according to the following rules:
 - If the number of copies is 10 or less, each copy costs 0.30 MAD.
@@ -128,4 +116,5 @@ Whether you're new to programming or looking for interesting beginner-level proj
 ♡ [Text_Composer](https://github.com/er-hiba/Text_Composer.git) : is a program that allows users to compose text by entering single characters interactively.  
 ♡ [Prime_Number](https://github.com/er-hiba/Prime_Number.git) : is a program that determines if a number is prime or not.    
 ♡ [Multiplication_Table](https://github.com/er-hiba/Multiplication_Table.git) : is a program that generates a multiplication table from 0 to 10 for user-input integers.    
-♡ [Compare_Signs](https://github.com/er-hiba/Compare_Signs.git) : is a program that determines whether two numbers entered by the user have the same sign, opposite signs, or if one of them is zero.  
+♡ [Compare_Signs](https://github.com/er-hiba/Compare_Signs.git) : is a program that determines whether two numbers entered by the user have the same sign, opposite signs, or if one of them is zero.    
+♡ [Swap_By_Sign](https://github.com/er-hiba/Swap_By_Sign.git) : is a program that swaps the values of two numbers entered by the user if they have the same sign; otherwise, it places the sum of the two in the first number and their product in the second.
