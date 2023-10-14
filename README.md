@@ -1,15 +1,4 @@
-<!-- # Learn2Code Repository
-Welcome to my repository where I document my journey of learning how to code. This repository contains various simple coding projects I'm working on. 
-Whether you're new to programming or looking for interesting beginner-level projects, you might find something here that piques your interest.
-
-## Projects Included
-
-### Divisors_List
-``Description`` This program finds and displays the divisors of a positive non-null integer.
-
-``Files`` The file that contains the code for this project is divisors_list.py   
-You can find it in the directory Divisors_List
-
+<!--
 ### Amal_Account
 ``Description`` This program calculates the total amount Amal will have in her savings account on her nth birthday, with her grandfather depositing 500 MAD on each birthday, and adding three times her age to the account.
 
@@ -62,5 +51,6 @@ Whether you're new to programming or looking for interesting beginner-level proj
 ♡ [Next_Ten](https://github.com/er-hiba/Next_Ten.git) : is a program that prints the next 10 numbers, starting from the user-input integer.  
 ♡ [Limited_Harmonic_Sum](https://github.com/er-hiba/Limited_Harmonic_Sum.git) : is a program that calculates the sum of the harmonic series up to the "n-th" term.  
 ♡ [Power_Ten_Sum](https://github.com/er-hiba/Power_Ten_Sum.git) : is a program that calculates the sum of powers of 10 from 0 to n.  
-♡ [Odd_Squares_Sum](https://github.com/er-hiba/Odd_Squares_Sum.git) : is a program that calculates the sum of the squares of the first n odd integers. 
+♡ [Odd_Squares_Sum](https://github.com/er-hiba/Odd_Squares_Sum.git) : is a program that calculates the sum of the squares of the first n odd integers.  
+♡ [Divisors_List](https://github.com/er-hiba/Divisors_List.git) : is a program that finds and displays the divisors of a positive non-null integer.
 
