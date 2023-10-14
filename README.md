@@ -4,12 +4,6 @@ Whether you're new to programming or looking for interesting beginner-level proj
 
 ## Projects Included
 
-### VAT_Price
-``Description`` This program prompts the user to enter the initial price of a product (excluding tax) and its category, which can be "A" (7% VAT), "B" (20% VAT), or "C" (25% VAT). And it applies the appropriate VAT rate to calculate the total price with VAT and displays the result.
-
-``Files`` The file that contains the code for this project is vat_price.py  
-You can find it in the directory VAT_Price
-
 ### Month_Days
 ``Description`` This program prompts the user to input a month number and then determines the number of days in that month, displaying the result.
 
@@ -93,4 +87,5 @@ Whether you're new to programming or looking for interesting beginner-level proj
 ♡ [Copy_Bill](https://github.com/er-hiba/Copy_Bill.git) : is a program that calculates the cost of photocopies according to some rules.  
 ♡ [Age_Category](https://github.com/er-hiba/Age_Category.git) : is a program that categorizes a child into one of four age groups (e.g., youngster, pupil, junior, and cadet) based on their age.  
 ♡ [Quadratic_Equation](https://github.com/er-hiba/Quadratic_Equation.git) : is a program that solves a quadratic equation.  
-♡ [Tax_Eligible](https://github.com/er-hiba/Tax_Eligible.git) : is a program that determines tax eligibility based on age and gender.
+♡ [Tax_Eligible](https://github.com/er-hiba/Tax_Eligible.git) : is a program that determines tax eligibility based on age and gender.  
+♡ [VAT_Price](https://github.com/er-hiba/VAT_Price.git) : is a program that calculates the total price (with VAT) of a product.
