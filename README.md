@@ -1,4 +1,4 @@
-# Learn2Code Repository
+<!-- # Learn2Code Repository
 Welcome to my repository where I document my journey of learning how to code. This repository contains various simple coding projects I'm working on. 
 Whether you're new to programming or looking for interesting beginner-level projects, you might find something here that piques your interest.
 
@@ -209,4 +209,10 @@ You can find it in the directory Formula_Sequence
 You can find it in the directory Fibonacci_Sequence
 
 ## Contact
-If you have any questions or feedback about these projects, feel free to [contact me](mailto:hibah.erraoui@gmail.com).
+If you have any questions or feedback about these projects, feel free to [contact me](mailto:hibah.erraoui@gmail.com). -->
+
+# Learn2Code Project Showcase
+Welcome to the Learn2Code repository, a collection of beginner-friendly Python projects. Explore a variety of simple programs, each designed to help you learn and practice Python programming skills. 
+
+- [Average_Score_Grade](https://github.com/er-hiba/AverageScore_Grade.git) : is a program that calculates the average of three input scores, validates them within a range, and assigns grades based on the average.
+
