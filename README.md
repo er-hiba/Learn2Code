@@ -218,3 +218,4 @@ Welcome to the Learn2Code repository, a collection of beginner-friendly Python p
 ♡ [Revenue_Calculator](https://github.com/er-hiba/Revenue_Calculator.git) : is a program that calculates revenue based on the total number of units sold and the price per unit.  
 ♡ [Circle_Area](https://github.com/er-hiba/Circle_Area.git) : is a program that calculates the area of a circle.  
 ♡ [Kitty_Art](https://github.com/er-hiba/Kitty_Art.git) : is a program that generates an ASCII art representation of a kitty.  
+♡ [Basic_Calculator](https://github.com/er-hiba/Basic_Calculator.git) : is a simple calculator that allows a user to perform basic arithmetic operations on two numbers (one at a time).
