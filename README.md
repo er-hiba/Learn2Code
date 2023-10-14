@@ -3,16 +3,6 @@ Welcome to my repository where I document my journey of learning how to code. Th
 Whether you're new to programming or looking for interesting beginner-level projects, you might find something here that piques your interest.
 
 ## Projects Included
-
-### Copy_Bill
-``Description`` This program calculates the cost of photocopies, and displays the total bill in Moroccan Dirhams (MAD). It calculates the cost according to the following rules:
-- If the number of copies is 10 or less, each copy costs 0.30 MAD.
-- If the number of copies is between 11 and 30 (inclusive), the first 10 copies cost 0.30 MAD each, and the rest cost 0.25 MAD each.
-- If the number of copies is over 30, the first 10 copies cost 0.30 MAD each, the next 20 cost 0.25 MAD each, and the remaining copies cost 0.20 MAD each.
-
-``Files``  The file that contains the code for this project is copy_bill.py  
-You can find it in the directory Copy_Bill
-
 ### Age_Category
 ``Description`` This program prompts the user to enter a child's age and categorizes it into one of the following age groups:  "Youngster" (6-7 years old), "Pupil" (8-9 years old), "Junior" (10-11 years old), or "Cadet" (12 years and older).  
 If the entered age doesn't fall into any of these categories, it informs the user that the child doesn't belong to any specified category.
@@ -117,4 +107,5 @@ Whether you're new to programming or looking for interesting beginner-level proj
 ♡ [Prime_Number](https://github.com/er-hiba/Prime_Number.git) : is a program that determines if a number is prime or not.    
 ♡ [Multiplication_Table](https://github.com/er-hiba/Multiplication_Table.git) : is a program that generates a multiplication table from 0 to 10 for user-input integers.    
 ♡ [Compare_Signs](https://github.com/er-hiba/Compare_Signs.git) : is a program that determines whether two numbers entered by the user have the same sign, opposite signs, or if one of them is zero.    
-♡ [Swap_By_Sign](https://github.com/er-hiba/Swap_By_Sign.git) : is a program that swaps the values of two numbers entered by the user if they have the same sign; otherwise, it places the sum of the two in the first number and their product in the second.
+♡ [Swap_By_Sign](https://github.com/er-hiba/Swap_By_Sign.git) : is a program that swaps the values of two numbers entered by the user if they have the same sign; otherwise, it places the sum of the two in the first number and their product in the second.  
+♡ [Copy_Bill](https://github.com/er-hiba/Copy_Bill.git) : is a program that calculates the cost of photocopies according to some rules. 
