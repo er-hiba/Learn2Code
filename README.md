@@ -3,11 +3,6 @@ Welcome to my repository where I document my journey of learning how to code. Th
 Whether you're new to programming or looking for interesting beginner-level projects, you might find something here that piques your interest.
 
 ## Projects Included
-### Prime_Number
-``Description`` This program determines whether a user-entered integer is a prime number or a composite number. Prime numbers are defined as positive integers greater than 1 that have exactly two distinct positive divisors: 1 and themselves. This program calculates the number of divisors for the entered integer and uses this count to make the determination.  If the user enters a non-integer, it will provide an error message.  
-
-``Files`` The file that contains the code for this project is prime_number.py  
-You can find it in the directory Prime_Number  
 
 ### Multiplication_Table
 ``Description`` This program generates a multiplication table from 0 to 10 for user-input integers. Please note that it does not include error handling for invalid input.  
@@ -137,4 +132,5 @@ Whether you're new to programming or looking for interesting beginner-level proj
 ♡ [Math_Operations](https://github.com/er-hiba/Math_Operations.git) : is a program that allows users to perform various mathematical operations on two input numbers.  
 ♡ [Number_Factorial](https://github.com/er-hiba/Number_Factorial.git) : is a program that calculates the factorial of a number.  
 ♡ [Text_Composer](https://github.com/er-hiba/Text_Composer.git) : is a program that allows users to compose text by entering single characters interactively.  
-♡ [Prime_Number](https://github.com/er-hiba/Prime_Number.git) : is a program that determines if a number is prime or not.  
+♡ [Prime_Number](https://github.com/er-hiba/Prime_Number.git) : is a program that determines if a number is prime or not.    
+♡ [Multiplication_Table](https://github.com/er-hiba/Multiplication_Table.git) : is a program that generates a multiplication table from 0 to 10 for user-input integers.  
