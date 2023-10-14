@@ -136,4 +136,5 @@ Whether you're new to programming or looking for interesting beginner-level proj
 ♡ [Basic_Calculator](https://github.com/er-hiba/Basic_Calculator.git) : is a simple calculator that allows a user to perform basic arithmetic operations on two numbers (one at a time).  
 ♡ [Math_Operations](https://github.com/er-hiba/Math_Operations.git) : is a program that allows users to perform various mathematical operations on two input numbers.  
 ♡ [Number_Factorial](https://github.com/er-hiba/Number_Factorial.git) : is a program that calculates the factorial of a number.  
-♡ [Text_Composer](https://github.com/er-hiba/Text_Composer.git) : is a program that allows users to compose text by entering single characters interactively.
+♡ [Text_Composer](https://github.com/er-hiba/Text_Composer.git) : is a program that allows users to compose text by entering single characters interactively.  
+♡ [Prime_Number](https://github.com/er-hiba/Prime_Number.git) : is a program that determines if a number is prime or not.  
