@@ -4,12 +4,6 @@ Whether you're new to programming or looking for interesting beginner-level proj
 
 ## Projects Included
 
-### Next_Ten
-``Description`` This program takes a user input, which is a number, and then prints the next ten numbers starting from that input using a for loop. It also includes additional examples of alternative loop structures, such as while and do-while loops, as commented sections.
-
-``Files`` The file that contains the code for this project is next_ten.py   
-You can find it in the directory Next_Ten
-
 ### Limited_Harmonic_Sum
 ``Description`` This program calculates and displays the sum of the harmonic series up to the "n-th" term.  
 The harmonic series is defined as 1/1 + 1/2 + 1/3 + ... + 1/n.
@@ -83,4 +77,5 @@ Whether you're new to programming or looking for interesting beginner-level proj
 ♡ [Quadratic_Equation](https://github.com/er-hiba/Quadratic_Equation.git) : is a program that solves a quadratic equation.  
 ♡ [Tax_Eligible](https://github.com/er-hiba/Tax_Eligible.git) : is a program that determines tax eligibility based on age and gender.  
 ♡ [VAT_Price](https://github.com/er-hiba/VAT_Price.git) : is a program that calculates the total price (with VAT) of a product.  
-♡ [Month_Days](https://github.com/er-hiba/Month_Days.git) : is a program that determines the days in a specified month.
+♡ [Month_Days](https://github.com/er-hiba/Month_Days.git) : is a program that determines the days in a specified month.  
+♡ [Next_Ten](https://github.com/er-hiba/Next_Ten.git) : is a program that prints the next 10 numbers, starting from the user-input integer.
