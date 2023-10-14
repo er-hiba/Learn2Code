@@ -108,4 +108,5 @@ Whether you're new to programming or looking for interesting beginner-level proj
 ♡ [Multiplication_Table](https://github.com/er-hiba/Multiplication_Table.git) : is a program that generates a multiplication table from 0 to 10 for user-input integers.    
 ♡ [Compare_Signs](https://github.com/er-hiba/Compare_Signs.git) : is a program that determines whether two numbers entered by the user have the same sign, opposite signs, or if one of them is zero.    
 ♡ [Swap_By_Sign](https://github.com/er-hiba/Swap_By_Sign.git) : is a program that swaps the values of two numbers entered by the user if they have the same sign; otherwise, it places the sum of the two in the first number and their product in the second.  
-♡ [Copy_Bill](https://github.com/er-hiba/Copy_Bill.git) : is a program that calculates the cost of photocopies according to some rules. 
+♡ [Copy_Bill](https://github.com/er-hiba/Copy_Bill.git) : is a program that calculates the cost of photocopies according to some rules.  
+♡ [Age_Category](https://github.com/er-hiba/Age_Category.git) : is a program that categorizes a child in one of 4 age groups.
