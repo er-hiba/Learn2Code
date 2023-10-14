@@ -216,4 +216,5 @@ Welcome to the Learn2Code repository, a collection of beginner-friendly Python p
 
 ♡ [Average_Score_Grade](https://github.com/er-hiba/AverageScore_Grade.git) : is a program that calculates the average of three input scores, validates them within a range, and assigns grades based on the average.  
 ♡ [Revenue_Calculator](https://github.com/er-hiba/Revenue_Calculator.git) : is a program that calculates revenue based on the total number of units sold and the price per unit.  
-♡ [Circle_Area](https://github.com/er-hiba/Circle_Area.git) : is a program that calculates the area of a circle.
+♡ [Circle_Area](https://github.com/er-hiba/Circle_Area.git) : is a program that calculates the area of a circle.  
+♡ [Kitty_Art](https://github.com/er-hiba/Kitty_Art.git) : is a program that generates an ASCII art representation of a kitty.  
