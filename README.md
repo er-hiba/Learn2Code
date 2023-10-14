@@ -4,12 +4,6 @@ Whether you're new to programming or looking for interesting beginner-level proj
 
 ## Projects Included
 
-### Multiplication_Table
-``Description`` This program generates a multiplication table from 0 to 10 for user-input integers. Please note that it does not include error handling for invalid input.  
-
-``Files`` The file that contains the code for this project is multiplication_table.py  
-You can find it in the directory Multiplication_Table  
-
 ### Compare_Signs
 ``Description`` This program determines whether two numbers entered by the user have the same sign, opposite signs, or if one of them is zero.
 
@@ -133,4 +127,5 @@ Whether you're new to programming or looking for interesting beginner-level proj
 ♡ [Number_Factorial](https://github.com/er-hiba/Number_Factorial.git) : is a program that calculates the factorial of a number.  
 ♡ [Text_Composer](https://github.com/er-hiba/Text_Composer.git) : is a program that allows users to compose text by entering single characters interactively.  
 ♡ [Prime_Number](https://github.com/er-hiba/Prime_Number.git) : is a program that determines if a number is prime or not.    
-♡ [Multiplication_Table](https://github.com/er-hiba/Multiplication_Table.git) : is a program that generates a multiplication table from 0 to 10 for user-input integers.  
+♡ [Multiplication_Table](https://github.com/er-hiba/Multiplication_Table.git) : is a program that generates a multiplication table from 0 to 10 for user-input integers.    
+♡ [Compare_Signs](https://github.com/er-hiba/Compare_Signs.git) : is a program that determines whether two numbers entered by the user have the same sign, opposite signs, or if one of them is zero.  
