@@ -1,11 +1,5 @@
 <!--
 
-### Population_Comparison
-``Description`` This program calculates and displays the number of years it takes for Agadir's population to surpass Marrakech's. Given the initial populations of Marrakech and Agadir, along with their respective growth rates. The population of the city of Marrakech is 1,000,000 inhabitants, and it increases by 50,000 inhabitants per year. The population of the city of Agadir is 500,000 inhabitants, and it increases by 8% per year.
-
-``Files``  The file that contains the code for this project is population_comparison.py  
-You can find it in the directory Population_Comparison
-
 ### Formula_Sequence
 ``Description`` This program prompts the user to enter an integer 'n'. It then calculates and prints the value of U(n) using a recursive formula, where U(0) = 6, and U(n+1) = 4 * U(n) + 10.
 
@@ -49,5 +43,6 @@ Whether you're new to programming or looking for interesting beginner-level proj
 ♡ [Odd_Squares_Sum](https://github.com/er-hiba/Odd_Squares_Sum.git) : is a program that calculates the sum of the squares of the first n odd integers.  
 ♡ [Divisors_List](https://github.com/er-hiba/Divisors_List.git) : is a program that finds and displays the divisors of a positive non-null integer.  
 ♡ [Amal_Account](https://github.com/er-hiba/Amal_Account.git) : is a program that calculates the total amount Amal will have in her savings account on her nth birthday, with her grandfather depositing 500 MAD on each birthday, and adding three times her age to the account.  
+♡ [Population_Comparison](https://github.com/er-hiba/Population_Comparison.git) : is a program that calculates the number of years it takes for Agadir's population to surpass Marrakech's, based on their initial populations and their respective growth rates.
 
 
