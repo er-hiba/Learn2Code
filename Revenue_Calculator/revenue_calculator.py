@@ -17,4 +17,5 @@ R = T * P
 # Output: Display the revenue with the currency symbol.
 # The currency symbol will be placed before the amount.
 # The revenue is formatted with two decimal places for clarity.
-print(f"The revenue is: {Symbol}{R:.2f}")
+print("The revenue is:",Symbol, round(R, 2))
+
