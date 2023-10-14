@@ -3,16 +3,6 @@ Welcome to my repository where I document my journey of learning how to code. Th
 Whether you're new to programming or looking for interesting beginner-level projects, you might find something here that piques your interest.
 
 ## Projects Included
-### Text_Composer
-``Description`` This program allows users to compose text by entering single characters interactively. Characters
-are collected one by one, and to conclude input, users can enter a period ('.'), which will not be displayed in the
-final output.  
-This program is designed for simplicity and basic text composition. It may not be suited for users who need to enter 
-larger amounts of text quickly. And it doesn't include advanced error handling features.  
-
-``Files`` The file that contains the code for this project is text_composer.py  
-You can find it in the directory Text_Composer  
-
 ### Prime_Number
 ``Description`` This program determines whether a user-entered integer is a prime number or a composite number. Prime numbers are defined as positive integers greater than 1 that have exactly two distinct positive divisors: 1 and themselves. This program calculates the number of divisors for the entered integer and uses this count to make the determination.  If the user enters a non-integer, it will provide an error message.  
 
@@ -145,4 +135,5 @@ Whether you're new to programming or looking for interesting beginner-level proj
 ♡ [Kitty_Art](https://github.com/er-hiba/Kitty_Art.git) : is a program that generates an ASCII art representation of a kitty.  
 ♡ [Basic_Calculator](https://github.com/er-hiba/Basic_Calculator.git) : is a simple calculator that allows a user to perform basic arithmetic operations on two numbers (one at a time).  
 ♡ [Math_Operations](https://github.com/er-hiba/Math_Operations.git) : is a program that allows users to perform various mathematical operations on two input numbers.  
-♡ [Number_Factorial](https://github.com/er-hiba/Number_Factorial.git) : is a program that calculates the factorial of a number.
+♡ [Number_Factorial](https://github.com/er-hiba/Number_Factorial.git) : is a program that calculates the factorial of a number.  
+♡ [Text_Composer](https://github.com/er-hiba/Text_Composer.git) : is a program that allows users to compose text by entering single characters interactively.
