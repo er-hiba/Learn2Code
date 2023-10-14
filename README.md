@@ -4,12 +4,6 @@ Whether you're new to programming or looking for interesting beginner-level proj
 
 ## Projects Included
 
-### Odd_Squares_Sum
-``Description`` This program calculates the sum of the squares of the first n odd integers.
-
-``Files`` The file that contains the code for this project is odd_squares_sum.py  
-You can find it in the directory Odd_Squares_Sum
-
 ### Divisors_List
 ``Description`` This program finds and displays the divisors of a positive non-null integer.
 
@@ -68,3 +62,5 @@ Whether you're new to programming or looking for interesting beginner-level proj
 ♡ [Next_Ten](https://github.com/er-hiba/Next_Ten.git) : is a program that prints the next 10 numbers, starting from the user-input integer.  
 ♡ [Limited_Harmonic_Sum](https://github.com/er-hiba/Limited_Harmonic_Sum.git) : is a program that calculates the sum of the harmonic series up to the "n-th" term.  
 ♡ [Power_Ten_Sum](https://github.com/er-hiba/Power_Ten_Sum.git) : is a program that calculates the sum of powers of 10 from 0 to n.  
+♡ [Odd_Squares_Sum](https://github.com/er-hiba/Odd_Squares_Sum.git) : is a program that calculates the sum of the squares of the first n odd integers. 
+
