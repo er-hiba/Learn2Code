@@ -215,4 +215,5 @@ If you have any questions or feedback about these projects, feel free to [contac
 Welcome to the Learn2Code repository, a collection of beginner-friendly Python projects. Explore a variety of simple programs, each designed to help you learn and practice Python programming skills. 
 
 ♡ [Average_Score_Grade](https://github.com/er-hiba/AverageScore_Grade.git) : is a program that calculates the average of three input scores, validates them within a range, and assigns grades based on the average.  
-♡ [Revenue_Calculator](https://github.com/er-hiba/Revenue_Calculator.git) : is a program that calculates revenue based on the total number of units sold and the price per unit.
+♡ [Revenue_Calculator](https://github.com/er-hiba/Revenue_Calculator.git) : is a program that calculates revenue based on the total number of units sold and the price per unit.  
+♡ [Circle_Area](https://github.com/er-hiba/Circle_Area.git) : is a program that calculates the area of a circle.
