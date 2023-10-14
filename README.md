@@ -4,12 +4,6 @@ Whether you're new to programming or looking for interesting beginner-level proj
 
 ## Projects Included
 
-### Power_Ten_Sum
-``Description`` This program calculates and displays the sum of powers of 10 from 0 to n, where n is entered by the user.
-
-``Files`` The file that contains the code for this project is power_ten_sum.py  
-You can find it in the directory Power_Ten_Sum
-
 ### Odd_Squares_Sum
 ``Description`` This program calculates the sum of the squares of the first n odd integers.
 
@@ -73,3 +67,4 @@ Whether you're new to programming or looking for interesting beginner-level proj
 ♡ [Month_Days](https://github.com/er-hiba/Month_Days.git) : is a program that determines the days in a specified month.  
 ♡ [Next_Ten](https://github.com/er-hiba/Next_Ten.git) : is a program that prints the next 10 numbers, starting from the user-input integer.  
 ♡ [Limited_Harmonic_Sum](https://github.com/er-hiba/Limited_Harmonic_Sum.git) : is a program that calculates the sum of the harmonic series up to the "n-th" term.  
+♡ [Power_Ten_Sum](https://github.com/er-hiba/Power_Ten_Sum.git) : is a program that calculates the sum of powers of 10 from 0 to n.  
