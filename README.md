@@ -4,12 +4,6 @@ Whether you're new to programming or looking for interesting beginner-level proj
 
 ## Projects Included
 
-### Month_Days
-``Description`` This program prompts the user to input a month number and then determines the number of days in that month, displaying the result.
-
-``Files`` The file that contains the code for this project is month_days.py  
-You can find it in the directory Month_Days
-
 ### Next_Ten
 ``Description`` This program takes a user input, which is a number, and then prints the next ten numbers starting from that input using a for loop. It also includes additional examples of alternative loop structures, such as while and do-while loops, as commented sections.
 
@@ -88,4 +82,5 @@ Whether you're new to programming or looking for interesting beginner-level proj
 ♡ [Age_Category](https://github.com/er-hiba/Age_Category.git) : is a program that categorizes a child into one of four age groups (e.g., youngster, pupil, junior, and cadet) based on their age.  
 ♡ [Quadratic_Equation](https://github.com/er-hiba/Quadratic_Equation.git) : is a program that solves a quadratic equation.  
 ♡ [Tax_Eligible](https://github.com/er-hiba/Tax_Eligible.git) : is a program that determines tax eligibility based on age and gender.  
-♡ [VAT_Price](https://github.com/er-hiba/VAT_Price.git) : is a program that calculates the total price (with VAT) of a product.
+♡ [VAT_Price](https://github.com/er-hiba/VAT_Price.git) : is a program that calculates the total price (with VAT) of a product.  
+♡ [Month_Days](https://github.com/er-hiba/Month_Days.git) : is a program that determines the days in a specified month.
