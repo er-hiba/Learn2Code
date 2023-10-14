@@ -4,13 +4,6 @@ Whether you're new to programming or looking for interesting beginner-level proj
 
 ## Projects Included
 
-### Limited_Harmonic_Sum
-``Description`` This program calculates and displays the sum of the harmonic series up to the "n-th" term.  
-The harmonic series is defined as 1/1 + 1/2 + 1/3 + ... + 1/n.
-
-``Files`` The file that contains the code for this project is limited_harmonic_sum.py  
-You can find it in the directory Limited_Harmonic
-
 ### Power_Ten_Sum
 ``Description`` This program calculates and displays the sum of powers of 10 from 0 to n, where n is entered by the user.
 
@@ -78,4 +71,5 @@ Whether you're new to programming or looking for interesting beginner-level proj
 ♡ [Tax_Eligible](https://github.com/er-hiba/Tax_Eligible.git) : is a program that determines tax eligibility based on age and gender.  
 ♡ [VAT_Price](https://github.com/er-hiba/VAT_Price.git) : is a program that calculates the total price (with VAT) of a product.  
 ♡ [Month_Days](https://github.com/er-hiba/Month_Days.git) : is a program that determines the days in a specified month.  
-♡ [Next_Ten](https://github.com/er-hiba/Next_Ten.git) : is a program that prints the next 10 numbers, starting from the user-input integer.
+♡ [Next_Ten](https://github.com/er-hiba/Next_Ten.git) : is a program that prints the next 10 numbers, starting from the user-input integer.  
+♡ [Limited_Harmonic_Sum](https://github.com/er-hiba/Limited_Harmonic_Sum.git) : is a program that calculates the sum of the harmonic series up to the "n-th" term.  
