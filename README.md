@@ -1,14 +1,3 @@
-<!--
-
-### Fibonacci_Sequence
-``Description`` This program prompts the user to enter an integer greater than or equal to 2, and it generates and displays the Fibonacci sequence, stopping just before reaching the specified integer.
-
-``Files`` The file that contains the code for this project is fibonacci_sequence.py   
-You can find it in the directory Fibonacci_Sequence
-
-## Contact
-If you have any questions or feedback about these projects, feel free to [contact me](mailto:hibah.erraoui@gmail.com). -->
-
 # Learn2Code ♡ Project Showcase ♡
 Welcome to my repository where I document my journey of learning how to code. This repository contains various simple coding projects I'm working on. 
 Whether you're new to programming or looking for interesting beginner-level projects, you might find something here that piques your interest : 
@@ -38,6 +27,10 @@ Whether you're new to programming or looking for interesting beginner-level proj
 ♡ [Divisors_List](https://github.com/er-hiba/Divisors_List.git) : is a program that finds and displays the divisors of a positive non-null integer.  
 ♡ [Amal_Account](https://github.com/er-hiba/Amal_Account.git) : is a program that calculates the total amount Amal will have in her savings account on her nth birthday, with her grandfather depositing 500 MAD on each birthday, and adding three times her age to the account.  
 ♡ [Population_Comparison](https://github.com/er-hiba/Population_Comparison.git) : is a program that calculates the number of years it takes for Agadir's population to surpass Marrakech's, based on their initial populations and their respective growth rates.  
-♡ [Formula_Sequence](https://github.com/er-hiba/Formula_Sequence.git) : is a program that calculates U(n) using a recursive formula.
+♡ [Formula_Sequence](https://github.com/er-hiba/Formula_Sequence.git) : is a program that calculates U(n) using a recursive formula.  
+♡ [Fibonacci_Sequence](https://github.com/er-hiba/Fibonacci_Sequence.git) : is a program that calculates and displays Fibonacci sequence terms up to a user-defined integer.  
+
+## Contact Information
+If you have any questions or feedback about these projects, feel free to [email me](mailto:hibah.erraoui@gmail.com).
  
 
