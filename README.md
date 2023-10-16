@@ -30,7 +30,8 @@ Whether you're new to programming or looking for interesting beginner-level proj
 ♡ [Formula_Sequence](https://github.com/er-hiba/Formula_Sequence.git) : is a program that calculates U(n) using a recursive formula.  
 ♡ [Fibonacci_Sequence](https://github.com/er-hiba/Fibonacci_Sequence.git) : is a program that calculates and displays Fibonacci sequence terms up to a user-defined integer.  
 ♡ [Character_Counter](https://github.com/er-hiba/Character_Counter.git) : is a program that counts the characters in a user-entered string.  
-♡ [String_Checker](https://github.com/er-hiba/String_Checker.git) : is a program that asks the user to input a string and checks if it's empty or not.
+♡ [String_Checker](https://github.com/er-hiba/String_Checker.git) : is a program that asks the user to input a string and checks if it's empty or not.  
+♡ [Reverse_String](https://github.com/er-hiba/Reverse_String.git) : is a program that reverses the order of characters in a user-input string and displays the result.
 
 ## Contact Information
 If you have any questions or feedback about these projects, feel free to [email me](mailto:hibah.erraoui@gmail.com).
